@@ -1,0 +1,27 @@
+body {
+    background-color: #3FEEE6;
+    color: black;
+    font-family: Helvetica;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #55BCC9;
+}
+
+h2, p {
+    margin-left: 50px;
+}
+
+h2 {
+    color: #FC4445;
+}
+
+a {
+    color: #FC4445;
+}
+
+a:hover {
+    color: #FC8890;
+}
