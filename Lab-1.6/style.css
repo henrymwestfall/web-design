@@ -6,6 +6,14 @@ h1 {
     color: maroon;
 }
 
+p {
+    color: maroong;
+    width: 350;
+    text-align: center;
+}
+
+
+
 a {
     color: #4B0082;
 }
