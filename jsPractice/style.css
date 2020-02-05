@@ -2,9 +2,11 @@ body {
     margin: 50px;
     background-color: rgb(0, 255, 255);
     color: rgb(0, 0, 80);
+    font-family: "Helvetica";
 }
 
 button {
     background-color: green;
     color: white;
+    font-family: "Arial";
 }

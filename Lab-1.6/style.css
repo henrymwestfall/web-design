@@ -1,0 +1,67 @@
+body {
+    color: black;   
+}
+
+h1 {
+    color: maroon;
+}
+
+a {
+    color: #4B0082;
+}
+
+a:hover {
+    color: maroon;
+}
+
+header {
+    text-align: center;
+    color: maroon;
+    margin: 0px;
+}
+
+nav {
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1.title {
+    margin-bottom: 0px;
+}
+
+h3.subtitle {
+    margin-top: 0px;
+    margin-left: 50px;
+}
+
+h2 {
+    margin: 10 auto;
+}
+
+#zoodlesAndCaulifloodles {
+    color: #008385;
+}
+
+#famousMacs {
+    color: maroon;
+}
+
+#classicNoodles{
+    color: gold;
+}
+
+.menuSection {
+    width: 700px;
+    margin: 0 auto;
+    background: white;
+    text-align: center;
+}
+
+.price {
+    color: green;
+}
+
+table {
+    width: 700px;
+    margin: 100 100;
+}
